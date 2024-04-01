@@ -16,4 +16,4 @@ std::uint64_t gcd(uint64_t a, uint64_t b);
 std::uint64_t modular_pow(std::uint64_t base, std::uint64_t exp, std::uint64_t mod);
 std::uint64_t modular_ inv(std::uint64_t a, std::uint64_t mod);
 
-
+#endif 
